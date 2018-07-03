@@ -29,3 +29,7 @@ brew install pandoc
 pandoc -S --toc --epub-embed-font='fonts/*.ttf' -o book.epub metadata.txt contents.markdown
 ```
 Your book will be exported as `book.epub`.
+
+### Additional Markdown Resources
+1. https://pandoc.org/MANUAL.html
+2. https://blog.ghost.org/markdown/
