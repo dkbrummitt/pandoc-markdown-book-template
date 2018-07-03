@@ -35,3 +35,4 @@ Your book will be exported as `book.epub`.
 2. https://blog.ghost.org/markdown/
 3. https://github.com/jgm/pandoc
 4. https://tex.stackexchange.com/questions/131562/adding-page-breaks-to-pandoc-latex-template-when-converting-markdown (Page Breaks)
+5. https://gist.github.com/mojavelinux/1705966 (Workflow)
