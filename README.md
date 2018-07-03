@@ -1,5 +1,6 @@
 # Pandoc Book Maker Template
 Template for creating epub books from markdown using `pandoc`.
+This fork was inspired by an article from the oringal template creator: https://medium.com/programmers-developers/building-books-with-markdown-using-pandoc-f0d19df7b2ca
 
 [![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](http://forthebadge.com)
 
